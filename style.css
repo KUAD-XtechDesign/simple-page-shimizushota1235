@@ -6,6 +6,10 @@ body{
   line-height: 1.8;
 }
 
+practice page
+background-color: #ff0000;
+
+
 img{
   max-width: 100%;
   height: auto;
@@ -16,7 +20,7 @@ img.frame{
 }
 
 #container{
-  max-width: 600px;
+  max-width: 12000px;
   margin: 30px auto;
 }
 
@@ -32,6 +36,7 @@ img.frame{
   padding-bottom: 10px;
   font-size: 1.2em;
   border-bottom: 1px solid #ddd;
+  color: #ff0000;
 }
 
 .btns{
